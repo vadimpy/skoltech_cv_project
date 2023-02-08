@@ -1,4 +1,3 @@
-# skoltech_cv_project
 ![alt text](https://github.com/vadimpy/skoltech_cv_project/blob/main/slides/Doccument%20scanner_page-0001.jpg)
 ![alt text](https://github.com/vadimpy/skoltech_cv_project/blob/main/slides/Doccument%20scanner_page-0002.jpg)
 ![alt text](https://github.com/vadimpy/skoltech_cv_project/blob/main/slides/Doccument%20scanner_page-0003.jpg)
