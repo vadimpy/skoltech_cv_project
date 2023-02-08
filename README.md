@@ -10,3 +10,4 @@
 ![alt text](https://github.com/vadimpy/skoltech_cv_project/blob/main/slides/Doccument%20scanner_page-0009.jpg)
 ![alt text](https://github.com/vadimpy/skoltech_cv_project/blob/main/slides/Doccument%20scanner_page-0010.jpg)
 ![alt text](https://github.com/vadimpy/skoltech_cv_project/blob/main/slides/Doccument%20scanner_page-0011.jpg)
+![alt text](https://github.com/vadimpy/skoltech_cv_project/blob/main/slides/Doccument%20scanner_page-0013.jpg)
